@@ -12151,92 +12151,6 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:38px;
-  height:12px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'SAP-icons';
-  font-weight:400;
-  font-style:normal;
-  font-size:10px;
-  color:#346187;
-  text-align:center;
-}
-#u627 {
-  border-width:0px;
-  position:absolute;
-  left:487px;
-  top:266px;
-  width:38px;
-  height:12px;
-  font-family:'SAP-icons';
-  font-weight:400;
-  font-style:normal;
-  font-size:10px;
-  color:#346187;
-  text-align:center;
-}
-#u627_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:38px;
-  word-wrap:break-word;
-}
-#u628_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:38px;
-  height:12px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'SAP-icons';
-  font-weight:400;
-  font-style:normal;
-  font-size:10px;
-  color:#346187;
-  text-align:center;
-}
-#u628 {
-  border-width:0px;
-  position:absolute;
-  left:487px;
-  top:308px;
-  width:38px;
-  height:12px;
-  font-family:'SAP-icons';
-  font-weight:400;
-  font-style:normal;
-  font-size:10px;
-  color:#346187;
-  text-align:center;
-}
-#u628_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:38px;
-  word-wrap:break-word;
-}
-#u629_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
   width:617px;
   height:47px;
   background:inherit;
@@ -12250,7 +12164,7 @@
   box-shadow:0px 1px 5px rgba(102, 102, 102, 0.349019607843137);
   font-size:18px;
 }
-#u629 {
+#u627 {
   border-width:0px;
   position:absolute;
   left:401px;
@@ -12259,7 +12173,7 @@
   height:47px;
   font-size:18px;
 }
-#u629_text {
+#u627_text {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -12267,7 +12181,7 @@
   width:613px;
   word-wrap:break-word;
 }
-#u630 {
+#u628 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -12275,7 +12189,7 @@
   width:0px;
   height:0px;
 }
-#u631_div {
+#u629_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -12297,7 +12211,7 @@
   font-style:normal;
   color:#6A6D70;
 }
-#u631 {
+#u629 {
   border-width:0px;
   position:absolute;
   left:401px;
@@ -12309,7 +12223,7 @@
   font-style:normal;
   color:#6A6D70;
 }
-#u631_text {
+#u629_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -12318,7 +12232,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u632_div {
+#u630_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -12338,7 +12252,7 @@
   font-size:14px;
   color:#FFFFFF;
 }
-#u632 {
+#u630 {
   border-width:0px;
   position:absolute;
   left:746px;
@@ -12351,7 +12265,7 @@
   font-size:14px;
   color:#FFFFFF;
 }
-#u632_text {
+#u630_text {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -12359,7 +12273,7 @@
   width:47px;
   word-wrap:break-word;
 }
-#u633_div {
+#u631_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -12376,7 +12290,7 @@
   font-size:14px;
   color:#0854A1;
 }
-#u633 {
+#u631 {
   border-width:0px;
   position:absolute;
   left:805px;
@@ -12386,7 +12300,7 @@
   font-size:14px;
   color:#0854A1;
 }
-#u633_text {
+#u631_text {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -12394,7 +12308,7 @@
   width:61px;
   word-wrap:break-word;
 }
-#u634_div {
+#u632_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -12411,7 +12325,7 @@
   font-size:14px;
   color:#8CAAD0;
 }
-#u634 {
+#u632 {
   border-width:0px;
   position:absolute;
   left:869px;
@@ -12421,7 +12335,7 @@
   font-size:14px;
   color:#8CAAD0;
 }
-#u634_text {
+#u632_text {
   border-width:0px;
   position:absolute;
   left:8px;
@@ -12429,7 +12343,7 @@
   width:51px;
   word-wrap:break-word;
 }
-#u635_div {
+#u633_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -12446,7 +12360,7 @@
   font-size:14px;
   color:#004F9D;
 }
-#u635 {
+#u633 {
   border-width:0px;
   position:absolute;
   left:944px;
@@ -12456,7 +12370,7 @@
   font-size:14px;
   color:#004F9D;
 }
-#u635_text {
+#u633_text {
   border-width:0px;
   position:absolute;
   left:8px;
