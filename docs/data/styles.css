@@ -3,9 +3,12 @@
   font-weight:400;
   font-style:normal;
   font-size:13px;
+  letter-spacing:normal;
   color:#333333;
+  vertical-align:none;
   text-align:center;
   line-height:normal;
+  text-transform:none;
 }
 .image {
 }
@@ -55,6 +58,11 @@
 }
 .paragraph {
   text-align:left;
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
 }
 .flow_shape {
 }
@@ -178,3 +186,4 @@
   font-size:24px;
   text-align:left;
 }
+textarea, select, input, button { outline: none; }
