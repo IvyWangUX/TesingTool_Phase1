@@ -202,7 +202,7 @@
 #u9 {
   border-width:0px;
   position:absolute;
-  left:215px;
+  left:315px;
   top:18px;
   width:5px;
   height:9px;
@@ -230,7 +230,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:88px;
+  width:194px;
   height:17px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -251,7 +251,7 @@
   position:absolute;
   left:114px;
   top:14px;
-  width:88px;
+  width:194px;
   height:17px;
   display:flex;
   font-family:'72-Bold', '72 Bold', '72';
