@@ -2297,7 +2297,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:380px;
+  width:338px;
   height:16px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -2306,6 +2306,9 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-family:'72-Regular', '72';
+  font-weight:400;
+  font-style:normal;
   font-size:14px;
   color:#666666;
 }
@@ -2314,9 +2317,12 @@
   position:absolute;
   left:193px;
   top:71px;
-  width:380px;
+  width:338px;
   height:16px;
   display:flex;
+  font-family:'72-Regular', '72';
+  font-weight:400;
+  font-style:normal;
   font-size:14px;
   color:#666666;
 }
@@ -3170,6 +3176,9 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-family:'72-Regular', '72';
+  font-weight:400;
+  font-style:normal;
   font-size:14px;
 }
 #u85 {
@@ -3180,6 +3189,9 @@
   width:208px;
   height:27px;
   display:flex;
+  font-family:'72-Regular', '72';
+  font-weight:400;
+  font-style:normal;
   font-size:14px;
 }
 #u85 .text {
@@ -3216,6 +3228,9 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-family:'72-Regular', '72';
+  font-weight:400;
+  font-style:normal;
   font-size:14px;
 }
 #u87 {
@@ -3226,6 +3241,9 @@
   width:111px;
   height:16px;
   display:flex;
+  font-family:'72-Regular', '72';
+  font-weight:400;
+  font-style:normal;
   font-size:14px;
 }
 #u87 .text {
@@ -4018,6 +4036,9 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-family:'72-Regular', '72';
+  font-weight:400;
+  font-style:normal;
   font-size:14px;
 }
 #u107 {
@@ -4028,6 +4049,9 @@
   width:156px;
   height:16px;
   display:flex;
+  font-family:'72-Regular', '72';
+  font-weight:400;
+  font-style:normal;
   font-size:14px;
 }
 #u107 .text {
@@ -7214,6 +7238,9 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-family:'72-Regular', '72';
+  font-weight:400;
+  font-style:normal;
   font-size:14px;
   text-align:left;
 }
@@ -7225,6 +7252,9 @@
   width:915px;
   height:41px;
   display:flex;
+  font-family:'72-Regular', '72';
+  font-weight:400;
+  font-style:normal;
   font-size:14px;
   text-align:left;
 }
