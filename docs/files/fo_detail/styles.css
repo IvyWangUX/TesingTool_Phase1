@@ -851,7 +851,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:38px;
+  width:58px;
   height:3px;
   background:inherit;
   background-color:rgba(8, 84, 160, 1);
@@ -868,7 +868,7 @@
   position:absolute;
   left:48px;
   top:177px;
-  width:38px;
+  width:58px;
   height:3px;
   display:flex;
 }
